@@ -1,4 +1,4 @@
-# CENG213-Dice-Simulation
+# CENG222-Dice-Simulation
 A fair 6-face and a fair 4-face dice are rolled, alongside a fair coin toss. The random variables A and B represent the outcomes of the dice rolls, with A ranging from 1 to 6 and B from 1 to 4. Variable C is determined by the result of the coin toss, assigned +1 for heads and -1 for tails. Another random variable X is formulated as A+(B*C).
 
 Simulated and iterated through this experiment 30000 times. For each iteration, stored the updated average value for all four random variables and the variance
